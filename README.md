@@ -100,5 +100,5 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ## RESULT:
 
-Thus,the code was successfully executed  to develop a neural network regression model...
+Thus,the code was successfully executed  to develop a neural network regression model.
 
